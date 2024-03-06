@@ -9,3 +9,6 @@ pyrogram
 tgcrypto 
 python-dotenv
 cachetools 
+Flusk==2.2.2
+gunicorn==20.1.0
+aiohtto==3.8.1
