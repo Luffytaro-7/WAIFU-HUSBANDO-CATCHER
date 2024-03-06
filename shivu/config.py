@@ -3,7 +3,7 @@ class Config(object):
 
     # Get this value from my.telegram.org/apps
     OWNER_ID = "6805772957"
-    sudo_users = "6805772957","851088427"
+    sudo_users = "6805772957", "851088427"
     GROUP_ID = "-1002131909973"
     TOKEN = "7030986326:AAHp6WDyj3gkHEQl07XDV1kyrwNppwTcn-E"
     PHOTO_URL = ["https://graph.org/bot-pic-03-06", ""]
