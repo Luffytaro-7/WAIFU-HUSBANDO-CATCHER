@@ -7,7 +7,7 @@ class Config(object):
     GROUP_ID = -1002131909973
     TOKEN = "7030986326:AAHp6WDyj3gkHEQl07XDV1kyrwNppwTcn-E"
     mongo_url = ""
-    PHOTO_URL = ["https://telegra.ph/file/b925c3985f0f325e62e17.jpg", "https://telegra.ph/file/4211fb191383d895dab9d.jpg"]
+    PHOTO_URL = ["", ""]
     SUPPORT_CHAT = "W.C_Support"
     UPDATE_CHAT = "W.c_Support"
     BOT_USERNAME = "makewaifucollectionbot"
