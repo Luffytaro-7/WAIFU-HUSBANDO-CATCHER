@@ -7,7 +7,7 @@ class Config(object):
     GROUP_ID = -1002131909973
     TOKEN = "7030986326:AAHp6WDyj3gkHEQl07XDV1kyrwNppwTcn-E"
     mongo_url = ""
-    PHOTO_URL = ["", ""]
+    PHOTO_URL = ["https://graph.org/bot-pic-03-06", ""]
     SUPPORT_CHAT = "W.C_Support"
     UPDATE_CHAT = "W.c_Support"
     BOT_USERNAME = "makewaifucollectionbot"
